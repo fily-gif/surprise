@@ -1,0 +1,6 @@
+body {
+    background: linear-gradient(to right, orange, purple);
+    font: 500;
+    text-align: center;
+    padding-top: 50%;
+}
