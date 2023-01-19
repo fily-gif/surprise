@@ -1,6 +1,6 @@
 const greeting = document.getElementById("greeting");
 const countdown = document.getElementById("countdown");
-const birthday = new Date("January 19, 2023 00:00:00");
+const birthday = new Date("January 18, 2023 10:25:00");
 
 let intervalId = setInterval(() => {
     let now = new Date();
